@@ -1,2 +1,3 @@
 # mc-markerplacer
-FiveM Marker Placer
+free and easy FiveM Marker Placer. 
+
