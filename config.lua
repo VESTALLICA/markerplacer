@@ -6,7 +6,7 @@ Config.Markers = {
         show = true,
 
         marker = 2, -- https://docs.fivem.net/docs/game-references/markers/ 
-        vector = vector3(-657.7, -7.14, 39.73), -- marker location, adjust z value if you want to place on ground or higher in the air
+        vector = vector3(-657.7, -7.14, 39.73), -- vector3(x, y, z) marker location, adjust z value if you want to place on ground or higher in the air
         scale = 1.4, -- must end in decimal value
 
         -- the dir and rot are optional and can be left at 0.0. mainly used if facecam == false. 
