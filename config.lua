@@ -1,6 +1,5 @@
 Config = Config or {}
 -- must restart the resource to see changes in game.
--- marker types: https://docs.fivem.net/docs/game-references/markers/
 
 Config.Markers = {
     [1] = {
