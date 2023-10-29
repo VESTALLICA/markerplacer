@@ -3,4 +3,4 @@ free and easy FiveM Marker Placer.
 
 marker types: https://docs.fivem.net/docs/game-references/markers/
 
-support and dev discord: https://discord.gg/ktzjBM2MkZ
+more resources and support in the vL discord: https://discord.gg/GC6tWQAK8u
